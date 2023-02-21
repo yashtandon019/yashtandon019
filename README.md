@@ -21,10 +21,10 @@ I'm passionate about building great software that solves real-world problems. My
 
 ## 🔍 Find Me Online
 
-- Twitter: [Your Twitter Handle](https://twitter.com/yashtandon019)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yashtandon019/)
-- Personal Website: [Your Personal Website](https://itsyash.fun/)
-- Email: [Your Email Address](mailto:yashtandon019+github.com)
+- Twitter: [yashtandon019](https://twitter.com/yashtandon019)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yashtandon019/)
+- Personal Website: [https://itsyash.fun/](https://itsyash.fun/)
+- Email: [Drop me a mail](mailto:yashtandon019+github.com)
 
 ## 🤝 Let's Connect
 
